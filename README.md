@@ -1,8 +1,8 @@
-# React + Vite
+# Just Scroll
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 顾名思义，这网页你就滚吧，一滚一个不吱声
 
-Currently, two official plugins are available:
+## 预览
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[just-scroll](https://just-scroll-69uf0087g-wangyinyuan.vercel.app/)
+部署方式：[Vercel](https://vercel.com/)
