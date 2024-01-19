@@ -4,6 +4,6 @@
 
 ## 预览
 
-[just-scroll](https://just-scroll-69uf0087g-wangyinyuan.vercel.app/)
+[just-scroll](https://just-scroll-ten.vercel.app/)
 
 部署方式：[Vercel](https://vercel.com/)
