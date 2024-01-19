@@ -23,9 +23,9 @@ export default function ScrollClipped() {
 
   return (
     <div>
-      <img src="http://s7i21oayk.sabkt.gdipper.com/just_scroll/firstSreen.png" className="img-clipped" style={clippedStyle}></img>
+      <img src="https://pic.imgdb.cn/item/65aa436d871b83018a6bbac0.jpg" className="img-clipped" style={clippedStyle}></img>
       <h1>After my demise, lay me to rest beneath a sea of flowers.</h1>
-      <img src="http://s7i21oayk.sabkt.gdipper.com/just_scroll/2-anime.jpg" className="img-normal"></img>
+      <img src="https://pic.imgdb.cn/item/65aa436d871b83018a6bba02.jpg" className="img-normal"></img>
     </div>
   );
 }
